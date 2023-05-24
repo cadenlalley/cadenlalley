@@ -32,6 +32,5 @@ Hello! My name is Caden Lalley and I am a student at the University of North Car
 #
 
 ### :brain: Currently Learning
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<i class="devicon-rust-plain"></i>
+<img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
 <br/>
