@@ -27,11 +27,11 @@ Hello! My name is Caden Lalley and I am a student at the University of North Car
 <img align="left" alt="express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img aligh="left" alt="golang" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
 <br/>
 
 #
 
 ### :brain: Currently Learning
 <img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />
-<img aligh="left" alt="golang" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
 <br/>
