@@ -17,7 +17,7 @@ Currently engineering high-throughput data pipelines and cloud-native services a
 
 <!-- Cloud & Infrastructure -->
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;"
-  src="https://simpleicons.org/icons/amazonaws.svg" />
+  src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/amazonaws.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
